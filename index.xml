@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Laurance George</title>
-    <link>https://laurance-george.com/index.xml</link>
+    <link>http://laurance-george.com/index.xml</link>
     <description>Recent content on Laurance George</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://laurance-george.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://laurance-george.com/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
